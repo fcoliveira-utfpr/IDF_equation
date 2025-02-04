@@ -1,1 +1,1 @@
-# IDFequation
+# IDF_equation
